@@ -11,7 +11,7 @@ This document contains the verified URLs, official repositories, and publication
 ## 1. Primary Benchmark Datasets
 
 ### **MTOP** (Multilingual Task-Oriented Semantic Parsing)
-* **Dataset (Hugging Face):** [mteb/mtop_domain](https://huggingface.co/datasets/mteb/mtop_domain)
+* **Dataset (Hugging Face):** [WillHeld/mtop](https://huggingface.co/datasets/WillHeld/mtop)
 
 
 ---
