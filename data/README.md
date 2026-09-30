@@ -49,7 +49,3 @@ This document contains the verified URLs, official repositories, and publication
 ---
 
 
-
-
-* **Terminology:** Standardized to `Phase-1` and `Phase-2` throughout the manuscript.
-* **LRL/MRL Classification:** Included justification paragraph for Thai in Section 3/Appendix.
