@@ -1,5 +1,6 @@
 # Dataset Resources & URLs
 
+This document contains the verified URLs, official repositories, and publication links for all benchmark datasets used in the study.
 ---
 ## Phase-1 
 
@@ -13,9 +14,6 @@
 ---
 
 ## Phase-2
-
-This document contains the verified URLs, official repositories, and publication links for all benchmark datasets used in the study.
-
 ---
 
 ## 1. Primary Benchmark Datasets
