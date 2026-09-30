@@ -1,8 +1,18 @@
+# Dataset Resources & URLs
+
+---
 ## Phase-1 
-Download Phase-1 input datasets from here - https://drive.google.com/drive/folders/1SYCTukmJcFy5nhmAxCp_LcXmzLLCteHH?usp=sharing 
+
+---
+### Wiki Matrix Dataset
+* **Dataset:** [WikiMatrix](https://huggingface.co/datasets/sentence-transformers/parallel-sentences-wikimatrix)
+* **Bengali:** [csebuetnlp/BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT)
+* **Thai:** [airesearch/scb_mt_enth_2020](https://huggingface.co/datasets/airesearch/scb_mt_enth_2020)
+* **Code Switched Regression model annotated data:** [Annotated Data](https://drive.google.com/drive/folders/1SYCTukmJcFy5nhmAxCp_LcXmzLLCteHH?usp=sharing)
+
+---
 
 ## Phase-2
-# Dataset Resources & URLs
 
 This document contains the verified URLs, official repositories, and publication links for all benchmark datasets used in the study.
 
@@ -11,7 +21,7 @@ This document contains the verified URLs, official repositories, and publication
 ## 1. Primary Benchmark Datasets
 
 ### **MTOP** (Multilingual Task-Oriented Semantic Parsing)
-* **Dataset (Hugging Face):** [WillHeld/mtop](https://huggingface.co/datasets/WillHeld/mtop)
+* **Dataset :** [WillHeld/mtop](https://huggingface.co/datasets/WillHeld/mtop)
 
 
 ---
@@ -23,28 +33,20 @@ This document contains the verified URLs, official repositories, and publication
 ---
 
 ### **xGQA** (Cross-Lingual Visual Question Answering)
-* **Dataset (Hugging Face):** [floschne/xgqa](https://huggingface.co/datasets/floschne/xgqa)
+* **Dataset:** [xgqa](https://github.com/Adapter-Hub/xGQA)
 
 
 ---
 
 ### **XNLI** (Cross-Lingual Natural Language Inference)
-* **Dataset (Hugging Face):** [facebook/xnli](https://huggingface.co/datasets/facebook/xnli)
+* **Dataset:** [facebook/xnli](https://huggingface.co/datasets/facebook/xnli)
 
 ---
 
-### **GBC1M** (Graph-Based Captioning 1M)
-* **Dataset (Hugging Face):** [graph-based-captions/GBC1M](https://huggingface.co/datasets/graph-based-captions/GBC1M)
-* **Code Repository (Apple ML):** [apple/ml-gbc](https://github.com/apple/ml-gbc)
-* **Description:** Large-scale dataset of 1 million graph-aligned image-caption pairs for vision-language pre-training.
+### **GLAMI-1M** 
+* **Dataset:** [GLAMI-1M](https://github.com/glami/glami-1m)
 
 ---
-
-### **SCB-MT-EN-TH-2020** (English-Thai Parallel Corpus)
-* **Dataset (Hugging Face):** [airesearch/scb_mt_enth_2020](https://huggingface.co/datasets/airesearch/scb_mt_enth_2020)
-* **GitHub Repository:** [vistec-AI/dataset-releases](https://github.com/vistec-AI/dataset-releases)
-* **Journal Publication (LRE 2022):** [Springer Link](https://link.springer.com/article/10.1007/s10579-022-09605-2)
-* **Description:** Large-scale parallel corpus containing over 1 million English-Thai translation pairs.
 
 ---
 
